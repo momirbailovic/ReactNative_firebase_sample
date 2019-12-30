@@ -1,0 +1,4 @@
+#Sun Aug 18 12:19:37 CST 2019
+base.0=D\:\\work\\react_native\\test\\ReactNative-NotificationSample\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

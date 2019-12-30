@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974429547759",
+    "firebase_url": "https://iheal365-1c952.firebaseio.com",
+    "project_id": "iheal365-1c952",
+    "storage_bucket": "iheal365-1c952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974429547759:android:4a73bb6367cbe279",
+        "android_client_info": {
+          "package_name": "com.iheal365U"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974429547759-811m52vha0e72792vnn91e416c96pohi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKEYA8TquYF6tJNq5_nywNne9ZXlirnJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974429547759-811m52vha0e72792vnn91e416c96pohi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
